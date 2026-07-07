@@ -142,5 +142,4 @@ python testbyimage.py
 
 ## 👤 Author
 
-**Your Name**
 [GitHub](https://github.com/salwagssaka) • [LinkedIn](https://linkedin.com/in/salwagssaka3b099428a)
