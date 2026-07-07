@@ -1,10 +1,10 @@
-🔬 Skin Lesion Segmentation with Mask R-CNN
+🔬 #Skin Lesion Segmentation with Mask R-CNN
 A deep learning project for automatic skin lesion segmentation using Mask R-CNN with a ResNet-50 FPN backbone, trained on the ISIC 2016 challenge dataset. The model detects and segments melanoma and other skin lesions from dermoscopic images.
 
-📌 Problem Statement
+📌 #Problem Statement
 Early detection of skin cancer, especially melanoma, is critical for patient survival. Manual analysis of dermoscopic images is time-consuming and error-prone. This project trains a Mask R-CNN model to automatically segment skin lesions, generating pixel-level masks that can assist dermatologists in diagnosis.
 
-📊 Dataset
+📊 #Dataset
 Source: ISIC 2016 Challenge — Part 1 (Lesion Segmentation)
 Train images: Download
 Train masks: Download
