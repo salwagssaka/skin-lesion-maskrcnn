@@ -25,3 +25,11 @@ py test.py (test phase )
 
 # Step 5: test model after train and test phase , by give him new image and he will predict the mask 
 py testbyimage.py (add the path inside file )
+## Model Weights & Presentation
+Due to GitHub's file size limits, the following are not included in this repo:
+- `maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth` and `model_maskrcnn.pth` (trained model weights)
+- `Model U-net.7z` (U-Net model archive)
+- `presentation.pdf`
+
+You can download them here: https://drive.google.com/drive/folders/1ipgW-KFaOEzsotGcLz_hQHEvC0v2i5FA?usp=sharing
+Or regenerate the weights by running `train.py`.
