@@ -1,0 +1,473 @@
+(maskrcnn) PS C:\Users\pc\Desktop\Model Mask R-CNN> python train.py
+>>
+Batch 0, Loss: 4.2972
+Batch 10, Loss: 0.7574
+Batch 20, Loss: 0.6442
+Batch 30, Loss: 0.5924
+Batch 40, Loss: 0.5052
+Batch 50, Loss: 0.3947
+Batch 60, Loss: 0.2926
+Batch 70, Loss: 0.3085
+Batch 80, Loss: 0.2972
+Batch 90, Loss: 0.4759
+Batch 100, Loss: 0.3006
+Batch 110, Loss: 0.3387
+Batch 120, Loss: 0.2608
+Batch 130, Loss: 0.2393
+Batch 140, Loss: 0.1913
+Batch 150, Loss: 0.2878
+Batch 160, Loss: 0.2705
+Batch 170, Loss: 0.3203
+Batch 180, Loss: 0.3395
+Batch 190, Loss: 0.4520
+Batch 200, Loss: 0.2609
+Batch 210, Loss: 0.1555
+Batch 220, Loss: 0.7694
+Batch 230, Loss: 0.2214
+Batch 240, Loss: 0.1920
+Batch 250, Loss: 0.4361
+Batch 260, Loss: 0.2331
+Batch 270, Loss: 0.4290
+Batch 280, Loss: 0.3622
+Batch 290, Loss: 0.2084
+Batch 300, Loss: 0.1957
+Batch 280, Loss: 0.3622
+Batch 290, Loss: 0.2084
+Batch 300, Loss: 0.1957
+Batch 300, Loss: 0.1957
+Batch 310, Loss: 0.3174
+Batch 320, Loss: 0.1822
+Batch 330, Loss: 0.3192
+Batch 340, Loss: 0.2751
+Batch 350, Loss: 0.2957
+Epoch [1] Average Loss: 0.3674
+Evaluated on 180 images
+Mean IoU: 0.8503
+Mean Precision: 0.9116
+Mean Recall: 0.9348
+Mean Accuracy: 0.9556
+Batch 0, Loss: 0.1753
+Batch 10, Loss: 0.2715
+Batch 20, Loss: 0.1924
+Batch 30, Loss: 0.1970
+Batch 40, Loss: 0.1850
+Batch 50, Loss: 0.1445
+Batch 60, Loss: 0.1593
+Batch 70, Loss: 0.2018
+Batch 80, Loss: 0.1653
+Batch 90, Loss: 0.1994
+Batch 100, Loss: 0.2479
+Batch 110, Loss: 0.1937
+Batch 120, Loss: 0.1046
+Batch 130, Loss: 0.2503
+Batch 140, Loss: 0.1320
+Batch 150, Loss: 0.2581
+Batch 160, Loss: 0.1983
+Batch 170, Loss: 0.2769
+Batch 180, Loss: 0.1410
+Batch 190, Loss: 0.2092
+Batch 200, Loss: 0.2026
+Batch 210, Loss: 0.1251
+Batch 220, Loss: 0.2437
+Batch 230, Loss: 0.1666
+Batch 240, Loss: 0.3328
+Batch 250, Loss: 0.2267
+Batch 260, Loss: 0.2796
+Batch 270, Loss: 0.2599
+Batch 280, Loss: 0.2004
+Batch 290, Loss: 0.2307
+Batch 300, Loss: 0.1970
+Batch 310, Loss: 0.2599
+Batch 320, Loss: 0.1704
+Batch 330, Loss: 0.1637
+Batch 340, Loss: 0.1682
+Batch 350, Loss: 0.2122
+Epoch [2] Average Loss: 0.2324
+Evaluated on 180 images
+Mean IoU: 0.8582
+Mean Precision: 0.9228
+Mean Recall: 0.9319
+Mean Accuracy: 0.9566
+Batch 0, Loss: 0.2559
+Batch 10, Loss: 0.2102
+Batch 20, Loss: 0.1314
+Batch 30, Loss: 0.1625
+Batch 40, Loss: 0.1197
+Batch 50, Loss: 0.1252
+Batch 60, Loss: 0.2941
+Batch 70, Loss: 0.2435
+Batch 80, Loss: 0.2250
+Batch 90, Loss: 0.2774
+Batch 100, Loss: 0.1771
+Batch 110, Loss: 0.2073
+Batch 120, Loss: 0.1162
+Batch 130, Loss: 0.1560
+Batch 140, Loss: 0.1522
+Batch 150, Loss: 0.1256
+Batch 160, Loss: 0.2138
+Batch 170, Loss: 0.1907
+Batch 180, Loss: 0.1955
+Batch 190, Loss: 0.1838
+Batch 200, Loss: 0.2760
+Batch 210, Loss: 0.1258
+Batch 220, Loss: 0.1277
+Batch 230, Loss: 0.2436
+Batch 240, Loss: 0.2005
+Batch 250, Loss: 0.1266
+Batch 260, Loss: 0.2111
+Batch 270, Loss: 0.1318
+Batch 280, Loss: 0.1863
+Batch 290, Loss: 0.1946
+Batch 300, Loss: 0.2359
+Batch 310, Loss: 0.1429
+Batch 320, Loss: 0.2482
+Batch 330, Loss: 0.2123
+Batch 340, Loss: 0.0971
+Batch 350, Loss: 0.2133
+Epoch [3] Average Loss: 0.2050
+Evaluated on 179 images
+Mean IoU: 0.8676
+Mean Precision: 0.9415
+Mean Recall: 0.9235
+Mean Accuracy: 0.9604
+Batch 0, Loss: 0.2407
+Batch 10, Loss: 0.1831
+Batch 20, Loss: 0.1526
+Batch 30, Loss: 0.2095
+Batch 40, Loss: 0.1267
+Batch 50, Loss: 0.1366
+Batch 60, Loss: 0.1539
+Batch 70, Loss: 0.1758
+Batch 80, Loss: 0.1718
+Batch 90, Loss: 0.2146
+Batch 100, Loss: 0.1415
+Batch 110, Loss: 0.2133
+Batch 120, Loss: 0.2093
+Batch 130, Loss: 0.1386
+Batch 140, Loss: 0.1995
+Batch 150, Loss: 0.1094
+Batch 160, Loss: 0.1344
+Batch 170, Loss: 0.1688
+Batch 180, Loss: 0.1679
+Batch 190, Loss: 0.1414
+Batch 200, Loss: 0.1732
+Batch 210, Loss: 0.1724
+Batch 220, Loss: 0.5639
+Batch 230, Loss: 0.1882
+Batch 240, Loss: 0.2199
+Batch 250, Loss: 0.1744
+Batch 260, Loss: 0.2580
+Batch 270, Loss: 0.1526
+Batch 280, Loss: 0.2694
+Batch 290, Loss: 0.1198
+Batch 300, Loss: 0.1462
+Batch 310, Loss: 0.1458
+Batch 320, Loss: 0.1505
+Batch 330, Loss: 0.1244
+Batch 340, Loss: 0.2296
+Batch 350, Loss: 0.1099
+Epoch [4] Average Loss: 0.1767
+Evaluated on 180 images
+Mean IoU: 0.8700
+Mean Precision: 0.9378
+Mean Recall: 0.9294
+Mean Accuracy: 0.9615
+Batch 0, Loss: 0.1579
+Batch 10, Loss: 0.1539
+Batch 20, Loss: 0.1437
+Batch 30, Loss: 0.1277
+Batch 40, Loss: 0.1186
+Batch 50, Loss: 0.1271
+Batch 60, Loss: 0.1291
+Batch 70, Loss: 0.1077
+Batch 80, Loss: 0.1638
+Batch 90, Loss: 0.1825
+Batch 100, Loss: 0.1216
+Batch 110, Loss: 0.1362
+Batch 120, Loss: 0.2632
+Batch 130, Loss: 0.1753
+Batch 140, Loss: 0.1942
+Batch 150, Loss: 0.1270
+Batch 160, Loss: 0.1718
+Batch 170, Loss: 0.1422
+Batch 180, Loss: 0.1824
+Batch 190, Loss: 0.2017
+Batch 200, Loss: 0.0974
+Batch 210, Loss: 0.1894
+Batch 220, Loss: 0.1693
+Batch 230, Loss: 0.1881
+Batch 240, Loss: 0.1483
+Batch 250, Loss: 0.1339
+Batch 260, Loss: 0.1592
+Batch 270, Loss: 0.1677
+Batch 280, Loss: 0.2092
+Batch 290, Loss: 0.2214
+Batch 300, Loss: 0.2065
+Batch 310, Loss: 0.1137
+Batch 320, Loss: 0.1685
+Batch 330, Loss: 0.2394
+Batch 340, Loss: 0.1373
+Batch 350, Loss: 0.1719
+Epoch [5] Average Loss: 0.1721
+Evaluated on 180 images
+Mean IoU: 0.8696
+Mean Precision: 0.9359
+Mean Recall: 0.9307
+Mean Accuracy: 0.9610
+Batch 0, Loss: 0.1298
+Batch 10, Loss: 0.1411
+Batch 20, Loss: 0.1743
+Batch 30, Loss: 0.1436
+Batch 40, Loss: 0.1175
+Batch 50, Loss: 0.2437
+Batch 60, Loss: 0.1597
+Batch 70, Loss: 0.1772
+Batch 80, Loss: 0.1041
+Batch 90, Loss: 0.1176
+Batch 100, Loss: 0.1742
+Batch 110, Loss: 0.3101
+Batch 120, Loss: 0.1273
+Batch 130, Loss: 0.1168
+Batch 140, Loss: 0.1461
+Batch 150, Loss: 0.1278
+Batch 160, Loss: 0.1491
+Batch 170, Loss: 0.0811
+Batch 180, Loss: 0.1235
+Batch 190, Loss: 0.1624
+Batch 200, Loss: 0.2382
+Batch 210, Loss: 0.1760
+Batch 220, Loss: 0.1310
+Batch 230, Loss: 0.1994
+Batch 240, Loss: 0.1784
+Batch 250, Loss: 0.1373
+Batch 260, Loss: 0.3128
+Batch 270, Loss: 0.1348
+Batch 280, Loss: 0.1167
+Batch 290, Loss: 0.1107
+Batch 300, Loss: 0.1824
+Batch 310, Loss: 0.1546
+Batch 320, Loss: 0.2306
+Batch 330, Loss: 0.1431
+Batch 340, Loss: 0.1429
+Batch 350, Loss: 0.2068
+Epoch [6] Average Loss: 0.1696
+Evaluated on 180 images
+Mean IoU: 0.8695
+Mean Precision: 0.9404
+Mean Recall: 0.9260
+Mean Accuracy: 0.9607
+Batch 0, Loss: 0.1241
+Batch 10, Loss: 0.1575
+Batch 20, Loss: 0.1250
+Batch 30, Loss: 0.1288
+Batch 40, Loss: 0.1181
+Batch 50, Loss: 0.1472
+Batch 60, Loss: 0.1837
+Batch 70, Loss: 0.1739
+Batch 80, Loss: 0.1197
+Batch 90, Loss: 0.1382
+Batch 100, Loss: 0.1474
+Batch 110, Loss: 0.1608
+Batch 120, Loss: 0.1737
+Batch 130, Loss: 0.1581
+Batch 140, Loss: 0.2255
+Batch 150, Loss: 0.2218
+Batch 160, Loss: 0.1565
+Batch 170, Loss: 0.2484
+Batch 180, Loss: 0.2274
+Batch 190, Loss: 0.1421
+Batch 200, Loss: 0.1379
+Batch 210, Loss: 0.1919
+Batch 220, Loss: 0.1391
+Batch 230, Loss: 0.2049
+Batch 240, Loss: 0.1983
+Batch 250, Loss: 0.1957
+Batch 260, Loss: 0.1781
+Batch 270, Loss: 0.1603
+Batch 280, Loss: 0.2144
+Batch 290, Loss: 0.1507
+Batch 300, Loss: 0.1970
+Batch 310, Loss: 0.1270
+Batch 320, Loss: 0.2201
+Batch 330, Loss: 0.1610
+Batch 340, Loss: 0.2285
+Batch 350, Loss: 0.5665
+Epoch [7] Average Loss: 0.1668
+Evaluated on 180 images
+Mean IoU: 0.8699
+Mean Precision: 0.9391
+Mean Recall: 0.9276
+Mean Accuracy: 0.9609
+Batch 0, Loss: 0.2994
+Batch 10, Loss: 0.2424
+Batch 20, Loss: 0.2128
+Batch 30, Loss: 0.1292
+Batch 40, Loss: 0.1528
+Batch 50, Loss: 0.1684
+Batch 60, Loss: 0.1268
+Batch 70, Loss: 0.1904
+Batch 80, Loss: 0.1751
+Batch 90, Loss: 0.1633
+Batch 100, Loss: 0.1938
+Batch 110, Loss: 0.1692
+Batch 120, Loss: 0.1429
+Batch 130, Loss: 0.2364
+Batch 140, Loss: 0.1521
+Batch 150, Loss: 0.1448
+Batch 160, Loss: 0.1834
+Batch 170, Loss: 0.1508
+Batch 180, Loss: 0.2215
+Batch 190, Loss: 0.1977
+Batch 200, Loss: 0.1572
+Batch 210, Loss: 0.2192
+Batch 220, Loss: 0.1316
+Batch 230, Loss: 0.1187
+Batch 240, Loss: 0.1563
+Batch 250, Loss: 0.1509
+Batch 260, Loss: 0.1414
+Batch 270, Loss: 0.1566
+Batch 280, Loss: 0.1269
+Batch 210, Loss: 0.2192
+Batch 220, Loss: 0.1316
+Batch 230, Loss: 0.1187
+Batch 240, Loss: 0.1563
+Batch 250, Loss: 0.1509
+Batch 260, Loss: 0.1414
+Batch 270, Loss: 0.1566
+Batch 280, Loss: 0.1269
+Batch 270, Loss: 0.1566
+Batch 280, Loss: 0.1269
+Batch 280, Loss: 0.1269
+Batch 290, Loss: 0.1762
+Batch 300, Loss: 0.1980
+Batch 310, Loss: 0.1623
+Batch 320, Loss: 0.1737
+Batch 330, Loss: 0.2279
+Batch 340, Loss: 0.1664
+Batch 350, Loss: 0.1759
+Epoch [8] Average Loss: 0.1661
+Evaluated on 180 images
+Mean IoU: 0.8702
+Mean Precision: 0.9396
+Mean Recall: 0.9276
+Mean Accuracy: 0.9610
+Batch 0, Loss: 0.2049
+Batch 10, Loss: 0.1709
+Batch 20, Loss: 0.1785
+Batch 30, Loss: 0.1517
+Batch 40, Loss: 0.1793
+Batch 50, Loss: 0.1650
+Batch 60, Loss: 0.2726
+Batch 70, Loss: 0.1656
+Batch 80, Loss: 0.2571
+Batch 90, Loss: 0.2549
+Batch 100, Loss: 0.1813
+Batch 110, Loss: 0.2792
+Batch 120, Loss: 0.2159
+Batch 130, Loss: 0.1764
+Batch 140, Loss: 0.1566
+Batch 150, Loss: 0.1652
+Batch 160, Loss: 0.1076
+Batch 170, Loss: 0.1237
+Batch 180, Loss: 0.2710
+Batch 190, Loss: 0.1711
+Batch 200, Loss: 0.1616
+Batch 210, Loss: 0.1556
+Batch 220, Loss: 0.1038
+Batch 230, Loss: 0.1352
+Batch 240, Loss: 0.1679
+Batch 250, Loss: 0.1294
+Batch 260, Loss: 0.1542
+Batch 270, Loss: 0.1701
+Batch 280, Loss: 0.1648
+Batch 290, Loss: 0.2044
+Batch 300, Loss: 0.2026
+Batch 310, Loss: 0.2658
+Batch 320, Loss: 0.2156
+Batch 330, Loss: 0.1264
+Batch 340, Loss: 0.1370
+Batch 350, Loss: 0.1282
+Epoch [9] Average Loss: 0.1652
+Evaluated on 180 images
+Mean IoU: 0.8701
+Mean Precision: 0.9384
+Mean Recall: 0.9286
+Mean Accuracy: 0.9610
+Batch 0, Loss: 0.1143
+Batch 10, Loss: 0.1798
+Batch 20, Loss: 0.1779
+Batch 30, Loss: 0.1754
+Batch 40, Loss: 0.1693
+Batch 50, Loss: 0.1550
+Batch 60, Loss: 0.1219
+Batch 70, Loss: 0.1768
+Batch 80, Loss: 0.1805
+Batch 90, Loss: 0.1031
+Batch 100, Loss: 0.2380
+Batch 110, Loss: 0.1336
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 60, Loss: 0.1219
+Batch 70, Loss: 0.1768
+Batch 80, Loss: 0.1805
+Batch 90, Loss: 0.1031
+Batch 100, Loss: 0.2380
+Batch 110, Loss: 0.1336
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 70, Loss: 0.1768
+Batch 80, Loss: 0.1805
+Batch 90, Loss: 0.1031
+Batch 100, Loss: 0.2380
+Batch 110, Loss: 0.1336
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 90, Loss: 0.1031
+Batch 100, Loss: 0.2380
+Batch 110, Loss: 0.1336
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 100, Loss: 0.2380
+Batch 110, Loss: 0.1336
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 110, Loss: 0.1336
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 120, Loss: 0.1483
+Batch 130, Loss: 0.1562
+Batch 140, Loss: 0.2168
+Batch 150, Loss: 0.2538
+Batch 160, Loss: 0.1411
+Batch 170, Loss: 0.1816
+Batch 180, Loss: 0.1492
+Batch 190, Loss: 0.1319
+Batch 200, Loss: 0.2238
+Batch 210, Loss: 0.2145
+Batch 220, Loss: 0.1536
+Batch 230, Loss: 0.1308
+Batch 240, Loss: 0.1213
+Batch 250, Loss: 0.1511
+Batch 260, Loss: 0.2752
+Batch 270, Loss: 0.1401
+Batch 280, Loss: 0.1299
+Batch 290, Loss: 0.1864
+Batch 300, Loss: 0.1895
+Batch 310, Loss: 0.1194
+Batch 320, Loss: 0.1152
+Batch 330, Loss: 0.1306
+Batch 340, Loss: 0.1167
+Batch 350, Loss: 0.1867
+Epoch [10] Average Loss: 0.1655
+Evaluated on 180 images
+Mean IoU: 0.8700
+Mean Precision: 0.9382
+Mean Recall: 0.9287
+Mean Accuracy: 0.9610
+(maskrcnn) PS C:\Users\pc\Desktop\Model Mask R-CNN> python test.py
+Evaluated on 377 images
+Mean IoU: 0.8594
+Mean Precision: 0.9255
+Mean Recall: 0.9291
+Mean Accuracy: 0.9559
+(maskrcnn) PS C:\Users\pc\Desktop\Model Mask R-CNN> 

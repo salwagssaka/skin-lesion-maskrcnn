@@ -1,0 +1,27 @@
+Step 1 : install the dataset set from 
+[
+    train images : https://isic-challenge-data.s3.amazonaws.com/2016/ISBI2016_ISIC_Part1_Training_Data.zip
+    train masks : https://isic-challenge-data.s3.amazonaws.com/2016/ISBI2016_ISIC_Part1_Training_GroundTruth.zip
+
+    test images : https://isic-challenge-data.s3.amazonaws.com/2016/ISBI2016_ISIC_Part1_Test_Data.zip
+    test masks : https://isic-challenge-data.s3.amazonaws.com/2016/ISBI2016_ISIC_Part1_Test_GroundTruth.zip
+
+    (in test don't give him masks , just the images , and he will predict the masks )
+
+    
+
+] install the dataset local and add paths in (train.py test.py engine.py )
+
+# Step 2 : Install dependencies
+pip install -r requirements.txt
+
+# Step 3:  train the model 
+py train.py  (this file has validation and train)
+
+
+# Step 4: test the model 
+py test.py (test phase )
+
+
+# Step 5: test model after train and test phase , by give him new image and he will predict the mask 
+py testbyimage.py (add the path inside file )
